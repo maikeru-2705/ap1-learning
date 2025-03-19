@@ -48,7 +48,7 @@
 ### [[4. Netzwerktechnik & IT-Infrastruktur]]
 - [x] Netzwerkkompetenzen (z.B. Router, Switch, Accesspoint)
 - [x] Netzwerkprotokolle (z.B. Ethernet, IP, DNS) und OSI-Modell
-- [ ] IPv4 & IPv6
+- [x] IPv4 & IPv6
 - [x] Client-Server-Systeme
 - [x] Einbindung eines PCs in eine Windows-Domäne
 - [x] Mobile Geräte (z.B. Smartphone, Tablet)
