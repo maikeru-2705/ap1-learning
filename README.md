@@ -65,12 +65,7 @@
 - [x] Fehler in einem gegebenen Quellcode finden
 - [x] Schreibtischtest mit einem gegebenen Quellcode durchführen
 
-
-### [[6. Datenbanken & Tabellen]]
-- [ ] Grundlagen von relationalen Datenbanken kennen und anwenden können
-- [ ] Testprotokoll für das Einrichten eines Arbeitsplatzes
-
-### [[7. IT-Sicherheit & Datenschutz]]
+### [[6. IT-Sicherheit & Datenschutz]]
 - [ ] Gewährleistung von Verfügbarkeit, Vertraulichkeit und Integrität der Daten
 - [ ] Technisch-organisatorische Maßnahmen (TOM)
 - [ ] Unterschied zwischen IT-Sicherheitsbeauftragtem und Datenschutzbeauftragtem im Betrieb
