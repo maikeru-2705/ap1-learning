@@ -6,76 +6,106 @@
 - #allgemeineänderungen Themen wurden umstrukturiert
 - #allgemeineänderungen Nicht-relationale **(NoSQL) Datenbanken** wurden aus dem Katalog **entfernt**
 - #allgemeineänderungen **Mehr Praxisbezug** durch realitätsnahe Prüfungsfragen
-- #quellen [Fachinformatiker Prüfungsvorbereitung](https://fachinformatikerpruefungsvorbereitung.de/) , [IT Berufe Podcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/) und Tutoren sowie was ich in der Schule gelernt habe... (-:
-- #wichtig Es ist nicht vollständig also daher bitte ich um, falls da was falsches drin ist oder fehlend ist dann schreibt mir per Mail an (pruefung-git@pm.me oder wenn dringend nonvaible@pm.me)
+- #quellen [Fachinformatiker Prüfungsvorbereitung](https://fachinformatikerpruefungsvorbereitung.de/) , [IT Berufe Podcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/) ,[Lernzettel](https://files.hstin.io/AP1_Lernzettel.pdf)
 
 
-## Mini Inhaltsverzeichnis für die kommende Prüfung:
-(auch [[Themen (again)]])
+## Inhaltsverzeichnis für die kommende Prüfung:
 
-### [[1. Merkmale und Methoden des Projektmanagements kennen, beurteilen, anwenden können]]
-- [x] Merkmale eines Projekts
+Durchgestrichen = fertig ausgearbeitet
+
+Es sind nicht 1 zu 1 die gleichen Inhalte wie im Prüfungskatalog. Liegt daran, weil viele Thematiken logisches Decken erfordern und weniger fachliches Wissen abfragen.
+
+### [[0. General]]
+
+- [ ] Künstliche Intelligenz
+- [ ] Bits & Byte
+- [ ] Zahlensysteme
+
+### [[1. Planen, Vorbereiten und Durchführen von Arbeitsaufgaben in Abstimmung mit den kundenspezifischen Geschäfts- und Leitprozessen]]
+
+- [x] Merkmale
+- [x] Projektplanung mithilfe von Strukturplan, Netzplan und Gantt-Diagramm
 - [x] SMART-Prinzip
 - [x] Projektphasen am Beispiel des Wasserfallmodells & Scrum definieren können
 - [x] Phasen der Teambildung und Teamentwicklung kennen
 - [x] Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen können
 - [x] Vor- und Nachkalkulation
-- [x] Betriebswirtschaftliche Kennzahlen (z.B. Umsatz, Gewinn, Deckungsbeitrag)
-- [x] Wertschöpfung
-
-
-### [[2. Kundenkommunikation & Support]]
+- [x] KI-Unterstützung
 - [x] Support & Serviceanfragen (First-, Second- und Third-Level-Support)
+- [x] Betriebswirtschaftliche Kennzahlen (z.B. Umsatz, Gewinn, Deckungsbeitrag)
+
+### [[2. Informieren und Beraten von Kunden und Kundinnen]]
+
+- [ ] Marktformen
+- [ ] Bedarfsanalyse
 - [x] Situationsgerechte Kundenkommunikation (z.B. Kundengespräch via Webinar)
 - [x] Kundenbedarf ermitteln und Angebote unterbreiten
-- [x] Quantitative und qualitative Angebotsbewertung
-- [x] Interpretation englischsprachiger Texte
-- [x] Technische und kaufmännische Texte in deutscher und englischer Sprache
-- [x] Präsentation und Medienkompetenz
+- [x] Quantitative und qualitative Angebotsbewertung (Angebotsvergleich)
 
-### [[3. Software & IT-Systeme]]
+### [[3. Beurteilen marktgängiger IT-Systeme und kundenspezifischer Lösungen]]
+
 - [x] Standardsoftware (z.B. Office-Pakete, Datenbank-Managementsysteme, Browser)
 - [x] Branchensoftware (z.B. ERP-Systeme, Supply Chain Management(SCM), Customer Relationship(CRM))
 - [x] Systemsoftware
 - [x] Entwicklungssysteme (z.B. Compiler, virtuelle Maschinen, Interpreter, Editoren, Debugger)
 - [x] Cloudlösungen (z.B. Software as a Service, Desktop as a Service (Platform as a Service))
 - [x] Virtuelle Desktops (Cloud oder lokal)
-- [x] Einteilung und Klassifikation von Anwendungssystemen (z.B. CRM, ERP)
 - [x] Kommunikationssysteme (z.B. Videokonferenzsysteme, Social-Media-Systeme)
 - [x] Barrierefreier Zugriff auf IT-Systeme (z.B. Webseiteneinstellungen)
 - [x] Installation und Einrichtung von Systemen (Betriebssysteme, BIOS/UEFI, Netzwerkanbindungen, Remote-Desktop, Partitionierung)
-
-### [[4. Netzwerktechnik & IT-Infrastruktur]]
 - [x] Netzwerkkompetenzen (z.B. Router, Switch, Accesspoint)
 - [x] Netzwerkprotokolle (z.B. Ethernet, IP, DNS) und OSI-Modell
-- [x] IPv4 & IPv6
 - [x] Client-Server-Systeme
 - [x] Einbindung eines PCs in eine Windows-Domäne
 - [x] Mobile Geräte (z.B. Smartphone, Tablet)
 - [x] Kenngrößen & Leistungsdaten (z.B. CPU, RAM, Datenspeicher, SSD HDD, Filesysteme, Netzwerkkarte, WLAN-Standards)
 - [x] Übertragungsraten, -zeiten und Datenmengen berechnen
-- [x] Mobile und stationäre Arbeitsplatzsysteme (z.B. Terminals, LAN, WLAN)
+- [x] Wertschöpfung
+- [ ] Wirtschaftlichkeit von IT-Systemen bestimmten
 
-### [[5. Programmierung & Softwareentwicklung]]
-- [x] UML-Diagramme (Use Case, Aktivitätsdiagramm, Klassendiagramm)
+### [[4. Entwickeln, Erstellen und Betreuen von IT-Lösungen]]
+
+- [x] IPv4 & IPv6
+- [ ] Kommandozeile und Konsolenbefehle
+- [ ] Programmierdialekt
+ - [x] UML-Diagramme (Use Case, Aktivitätsdiagramm, Klassendiagramm)
 - [x] Entwurf von Bildschirmausgabemasken (Softwareergonomie, Corporate Identity, Barrierefreiheit)
 - [x] Klassen, Attribute, Objekte, Methoden, Sichtbarkeit
 - [x] Skriptsprachen (z.B. Shell-Skripte)
-- [x] Abbildung von Kontrollstrukturen (z.B. Verzweigungen, Schleifen) mittels Pseudocode
+- [ ] Abbildung von Kontrollstrukturen (z.B. Verzweigungen, Schleifen) mittels Pseudocode
 - [x] Fehler in einem gegebenen Quellcode finden
 - [x] Schreibtischtest mit einem gegebenen Quellcode durchführen
+- [ ] Einfache ER-Modelle
 
-### [[6. IT-Sicherheit & Datenschutz]]
-- [ ] Gewährleistung von Verfügbarkeit, Vertraulichkeit und Integrität der Daten
-- [ ] Technisch-organisatorische Maßnahmen (TOM)
-- [ ] Unterschied zwischen IT-Sicherheitsbeauftragtem und Datenschutzbeauftragtem im Betrieb
-- [ ] IT-Sicherheitsrichtlinien wie Passwort-Policy
-- [ ] Technische Maßnahmen (z.B. Virenschutz, Personal Firewall, Verschlüsselung)
-- [ ] Härtung von Betriebssystemen (Schwachstellen schließen)
-- [ ] Schutzbedarfanalyse nach BSI IT-Grundschutz
-- [ ] Grundzüge der Datenschutzgesetze (z.B. DSGVO, BDSG)
-- [ ] Rechte der Betroffenen & Konsequenzen der Einwilligung
-- [ ] Maßnahmen wie Anonymisierung und Pseudonymisierung
+### [[5. Durchführen und Dokumentieren von qualitätssichernden Maßnahmen]]
 
+- [ ] QM-Systeme
+- [ ] QS-Normen
+- [ ] Zertifizierung
+- [ ] Qualitätsplanung und -ziele
+- [ ] Qualitätslenkung
+- [ ] PDCA
+- [ ] Testprotokoll
 
 
+### [[6. Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz]]
+
+- [x] Gewährleistung von Verfügbarkeit, Vertraulichkeit und Integrität der Daten
+- [x] Technisch-organisatorische Maßnahmen (TOM)
+- [x] Unterschied zwischen IT-Sicherheitsbeauftragtem und Datenschutzbeauftragtem im Betrieb
+- [x] IT-Sicherheitsrichtlinien wie Passwort-Policy
+- [x] Technische Maßnahmen (z.B. Virenschutz, Personal Firewall, Verschlüsselung)
+- [x] Härtung von Betriebssystemen (Schwachstellen schließen)
+- [x] Schutzbedarfsanalyse nach BSI IT-Grundschutz
+- [x] Grundzüge der Datenschutzgesetze (z.B. DSGVO, BDSG)
+- [x] Rechte der Betroffenen & Konsequenzen der Einwilligung
+- [x] Maßnahmen wie Anonymisierung und Pseudonymisierung
+
+### [[7. Erbringen der Leistungen und Auftragsabschluss]]
+
+- [ ] Vertragsarten
+- [ ] Leitbild des Unternehmens
+- [ ] Aufbauorganisation
+- [ ] Veränderungsprozesse
+- [ ] Leistungsübergabe
+- [ ] Leistungserbringung
