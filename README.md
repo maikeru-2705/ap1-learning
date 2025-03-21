@@ -36,8 +36,8 @@ Es sind nicht 1 zu 1 die gleichen Inhalte wie im Prüfungskatalog. Liegt daran, 
 
 ### [[2. Informieren und Beraten von Kunden und Kundinnen]]
 
-- [ ] Marktformen
-- [ ] Bedarfsanalyse
+- [x] Marktformen
+- [x] Bedarfsanalyse
 - [x] Situationsgerechte Kundenkommunikation (z.B. Kundengespräch via Webinar)
 - [x] Kundenbedarf ermitteln und Angebote unterbreiten
 - [x] Quantitative und qualitative Angebotsbewertung (Angebotsvergleich)
@@ -103,8 +103,7 @@ Es sind nicht 1 zu 1 die gleichen Inhalte wie im Prüfungskatalog. Liegt daran, 
 
 ### [[7. Erbringen der Leistungen und Auftragsabschluss]]
 
-- [ ] Vertragsarten
-- [ ] Leitbild des Unternehmens
+- [x] Vertragsarten
 - [ ] Aufbauorganisation
 - [ ] Veränderungsprozesse
 - [ ] Leistungsübergabe
