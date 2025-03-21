@@ -17,9 +17,9 @@ Es sind nicht 1 zu 1 die gleichen Inhalte wie im Prüfungskatalog. Liegt daran, 
 
 ### [[0. General]]
 
-- [ ] Künstliche Intelligenz
-- [ ] Bits & Byte
-- [ ] Zahlensysteme
+- [x] Künstliche Intelligenz
+- [x] Bits & Byte
+- [x] Zahlensysteme
 
 ### [[1. Planen, Vorbereiten und Durchführen von Arbeitsaufgaben in Abstimmung mit den kundenspezifischen Geschäfts- und Leitprozessen]]
 
