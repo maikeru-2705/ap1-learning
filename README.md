@@ -66,16 +66,16 @@ Es sind nicht 1 zu 1 die gleichen Inhalte wie im Prüfungskatalog. Liegt daran, 
 ### [[4. Entwickeln, Erstellen und Betreuen von IT-Lösungen]]
 
 - [x] IPv4 & IPv6
-- [ ] Kommandozeile und Konsolenbefehle
-- [ ] Programmierdialekt
- - [x] UML-Diagramme (Use Case, Aktivitätsdiagramm, Klassendiagramm)
+- [x] Kommandozeile und Konsolenbefehle
+- [x] Programmierdialekt
+- [x] UML-Diagramme (Use Case, Aktivitätsdiagramm, Klassendiagramm)
 - [x] Entwurf von Bildschirmausgabemasken (Softwareergonomie, Corporate Identity, Barrierefreiheit)
 - [x] Klassen, Attribute, Objekte, Methoden, Sichtbarkeit
 - [x] Skriptsprachen (z.B. Shell-Skripte)
-- [ ] Abbildung von Kontrollstrukturen (z.B. Verzweigungen, Schleifen) mittels Pseudocode
+- [x] Abbildung von Kontrollstrukturen (z.B. Verzweigungen, Schleifen) mittels Pseudocode
 - [x] Fehler in einem gegebenen Quellcode finden
 - [x] Schreibtischtest mit einem gegebenen Quellcode durchführen
-- [ ] Einfache ER-Modelle
+- [x] Einfache ER-Modelle
 
 ### [[5. Durchführen und Dokumentieren von qualitätssichernden Maßnahmen]]
 
@@ -104,7 +104,4 @@ Es sind nicht 1 zu 1 die gleichen Inhalte wie im Prüfungskatalog. Liegt daran, 
 ### [[7. Erbringen der Leistungen und Auftragsabschluss]]
 
 - [x] Vertragsarten
-- [ ] Aufbauorganisation
-- [ ] Veränderungsprozesse
-- [ ] Leistungsübergabe
-- [ ] Leistungserbringung
+- [x] Aufbauorganisation
