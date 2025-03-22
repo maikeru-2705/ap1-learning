@@ -13,7 +13,7 @@
 
 Durchgestrichen = fertig ausgearbeitet
 
-Es sind nicht 1 zu 1 die gleichen Inhalte wie im Prüfungskatalog. Liegt daran, weil viele Thematiken logisches Decken erfordern und weniger fachliches Wissen abfragen.
+Es sind nicht 1 zu 1 die gleichen Inhalte wie im Prüfungskatalog. Liegt daran, weil viele Thematiken logisches Decken erfordern und weniger fachliches Wissen abfragen, deshalb können einige Themenfelder deutlich kleiner erscheinen, als sie eigentlich sind.
 
 ### [[0. General]]
 
