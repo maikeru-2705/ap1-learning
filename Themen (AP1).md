@@ -12,31 +12,6 @@ Einrichten eines IT-gestützten Arbeitsplatzes (90 Minuten, ungebundene Aufgaben
 | 05 Die Leistungserbringung kontrollieren und protokollieren                                                                                                                         |
 
 
-## AP2:
-- Konzeption und Administration von IT-Systemen (90 Minuten, ungebundene Aufgaben)
-- Analyse und Entwicklung von Netzwerken (90 Minuten, ungebundene Aufgaben)
-- Wirtschafts- und Sozialkunde (60 Minuten, ca. 30 gebundene und ungebundene maschinell auswertbare Aufgaben)
-
-(...)
-
-### Lernfelder (LF)
-
-| LF Nr  | Bezeichnung                                                            |
-| ------ | ---------------------------------------------------------------------- |
-| #LF1   | Das Unternehmen und die eigene Rolle im Betrieb beschreiben            |
-| #LF2   | Arbeitsplätze nach Kundenwunsch ausstatten                             |
-| #LF3   | Clients in Netzwerke einbinden                                         |
-| #LF4   | Schutzbedarfanalyse im eigenen Arbeitsbereich durchführen              |
-| #LF5   | Software zur Verwaltung von Daten anpassen                             |
-| #LF6   | Serviceanfragen bearbeiten                                             |
-| #LF7   | Cyber-physische Systeme ergänzen                                       |
-| #LF8   | Daten systemübergreifend bereitstellen                                 |
-| #LF9   | Netzwerke und Dienste bereitstellen                                    |
-| #LF10b | Serverdienste bereitstellen und Administrationsaufgaben automatisieren |
-| #LF11b | Betrieb und Sicherheit vernetzter Systeme gewährleisten                |
-| #LF12b | Kunden[[spezifisch]]e Systemintegration durchführen                    |
-
-
 ---
 ## 1. Planen, Vorbereiten und Durchführen von Arbeitsaufgaben in Abstimmung mit den kunden[[spezifisch]]en Geschäfts- und Leistungsprozessen
 Lernfelder: #LF1, #LF2, #LF3, #LF5, #LF6

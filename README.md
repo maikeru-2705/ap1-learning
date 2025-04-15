@@ -11,6 +11,9 @@
 
 ## Inhaltsverzeichnis für die kommende Prüfung:
 
+
+
+
 Durchgestrichen = fertig ausgearbeitet
 
 Es sind nicht 1 zu 1 die gleichen Inhalte wie im Prüfungskatalog. Liegt daran, weil viele Thematiken logisches Decken erfordern und weniger fachliches Wissen abfragen, deshalb können einige Themenfelder deutlich kleiner erscheinen, als sie eigentlich sind.
@@ -61,7 +64,7 @@ Es sind nicht 1 zu 1 die gleichen Inhalte wie im Prüfungskatalog. Liegt daran, 
 - [x] Kenngrößen & Leistungsdaten (z.B. CPU, RAM, Datenspeicher, SSD HDD, Filesysteme, Netzwerkkarte, WLAN-Standards)
 - [x] Übertragungsraten, -zeiten und Datenmengen berechnen
 - [x] Wertschöpfung
-- [ ] Wirtschaftlichkeit von IT-Systemen bestimmten
+- [x] Wirtschaftlichkeit von IT-Systemen bestimmten
 
 ### [[4. Entwickeln, Erstellen und Betreuen von IT-Lösungen]]
 
@@ -79,13 +82,13 @@ Es sind nicht 1 zu 1 die gleichen Inhalte wie im Prüfungskatalog. Liegt daran, 
 
 ### [[5. Durchführen und Dokumentieren von qualitätssichernden Maßnahmen]]
 
-- [ ] QM-Systeme
-- [ ] QS-Normen
-- [ ] Zertifizierung
-- [ ] Qualitätsplanung und -ziele
-- [ ] Qualitätslenkung
-- [ ] PDCA
-- [ ] Testprotokoll
+- [x] QM-Systeme
+- [x] QS-Normen
+- [x] Zertifizierung
+- [x] Qualitätsplanung und -ziele
+- [x] Qualitätslenkung
+- [x] PDCA
+- [x] Testprotokoll
 
 
 ### [[6. Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz]]
