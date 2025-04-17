@@ -27,7 +27,7 @@ Wirtschafts- und Sozialkunde (60 Minuten, ca. 30 ungebundene maschinell auswertb
 | 04 Umweltschutz (§ 4 Absatz 7 Nummer 4)                                               |
 | 05 Vernetztes Zusammenarbeiten unter Nutzung digitaler Medien (§ 4 Absatz 7 Nummer 5) |
 
-# Gebiet 01
+# Bereich 01
 ## 1. Informieren und Beraten von Kunden und Kundinnen
 
 1.  Aktives Zuhören, Kommunikationsmodelle (z.B. Telefonkonferenzen, Chat, virtuelle Teambesprechung), Verkaufsgespräche (Anfrage, Angebot, Auftrag), Analyse der Kundenbedürfnisse -> **nicht Bestandteil der schriftlichen Prüfung**
@@ -143,7 +143,7 @@ Wirtschafts- und Sozialkunde (60 Minuten, ca. 30 ungebundene maschinell auswertb
 	- Log Management
 	- Compliance Reports
 
-# Gebiet 02
+# Bereich 02
 
 ## 1. Betreiben von IT-Systemen
 
