@@ -228,7 +228,7 @@ Wirtschafts- und Sozialkunde (60 Minuten, ca. 30 ungebundene maschinell auswertb
 	- Programm- und Konfigurationsdokumentation
 	- Checklisten
 
-## 2 Inbetriebnehmen von Speicherlösungen
+## 2. Inbetriebnehmen von Speicherlösungen
 
 1. Technische und organisatorische Maßnahmen (TOM)
 	- Berechtigungskonzepte, Organisationsstrukturen (Zugang, Zutritt, Zugriff)
@@ -258,3 +258,24 @@ Wirtschafts- und Sozialkunde (60 Minuten, ca. 30 ungebundene maschinell auswertb
 	- SMB
 	- NFS
 	- Ethernet, FibreChannel
+
+## 3. Programmieren von Softwarelösungen
+
+
+## 4. Konzipieren und Umsetzen von kundenspezifischen Softwareanwendungen
+
+
+## 5. Sicherstellen der Qualität von Softwareanwendungen
+
+
+# Bereich 03
+
+## 1. Berufsausbildung sowie Arbeits- und Tarifrecht
+
+## 2. Aufbau und Organisation des Ausbildungsbetriebes
+
+## 3. Sicherheit und Gesundheitsrecht bei der Arbeit
+
+## 4. Umweltschutz
+
+## 5. Vernetztes Zusammenarbeiten unter Nutzung digitaler Medien
